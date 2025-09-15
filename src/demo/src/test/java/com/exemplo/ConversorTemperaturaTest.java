@@ -6,7 +6,7 @@ public class ConversorTemperaturaTest {
 
     @Test
     void testCelsiusParaFahrenheit_CasoNormal() {
-        assertEquals(212.0, conversor.celsiusParaFahrenheit(100.0), DELTA);
+        assertEquals(999.0, conversor.celsiusParaFahrenheit(100.0), DELTA);
     }
 
     @Test
