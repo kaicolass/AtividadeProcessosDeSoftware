@@ -1,6 +1,5 @@
 package com.exemplo;
 
-public class ConversorTemperatura {
     public class ConversorTemperatura {
 
         /**
@@ -19,5 +18,5 @@ public class ConversorTemperatura {
             return (fahrenheit - 32) * 5 / 9;
         }
     }
-}
+
 

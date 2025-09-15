@@ -1,4 +1,7 @@
-package demo.src.test.java.com.exemplo;
+package com.exemplo;
+
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class ConversorTemperaturaTest {
     private final ConversorTemperatura conversor = new ConversorTemperatura();
