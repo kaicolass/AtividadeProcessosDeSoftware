@@ -1,4 +1,4 @@
-package demo.src.main.java.com.example;
+package com.exemplo;
 
 public class ConversorTemperatura {
     public class ConversorTemperatura {
